@@ -1,2 +1,2 @@
 # Helsinki-935
-Magisk tweaks module
+Magisk tweaks snap module
