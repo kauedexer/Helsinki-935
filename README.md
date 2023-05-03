@@ -4,3 +4,4 @@ Un módulo para dispositivos adreno con el objetivo de ser todo lo que necesitas
 - Códigos reescritos
 - Más Logs desabilitadas
 - Correciones de bugs
+- Notificación no aparecía
