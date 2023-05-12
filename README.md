@@ -6,3 +6,4 @@ Un módulo para dispositivos adreno con el objetivo de ser todo lo que necesitas
 - Correciones de bugs
 - Notificación no aparecía
 - Mejoras generales
+- CPU Tweaks
